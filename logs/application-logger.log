@@ -111,3 +111,6 @@
 [30m2022-01-06 11:31:09,323[0;39m [34m[0;39m INFO [[34mEureka-EvictionTimer[0;39m] [33mcom.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask[0;39m : Running the evict task with compensationTime 11ms
 [30m2022-01-06 11:32:09,335[0;39m [34m[0;39m INFO [[34mEureka-EvictionTimer[0;39m] [33mcom.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask[0;39m : Running the evict task with compensationTime 12ms
 [30m2022-01-06 11:33:09,336[0;39m [34m[0;39m INFO [[34mEureka-EvictionTimer[0;39m] [33mcom.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask[0;39m : Running the evict task with compensationTime 0ms
+[30m2022-01-06 11:34:09,337[0;39m [34m[0;39m INFO [[34mEureka-EvictionTimer[0;39m] [33mcom.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask[0;39m : Running the evict task with compensationTime 1ms
+[30m2022-01-06 11:35:09,345[0;39m [34m[0;39m INFO [[34mEureka-EvictionTimer[0;39m] [33mcom.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask[0;39m : Running the evict task with compensationTime 8ms
+[30m2022-01-06 11:36:09,346[0;39m [34m[0;39m INFO [[34mEureka-EvictionTimer[0;39m] [33mcom.netflix.eureka.registry.AbstractInstanceRegistry$EvictionTask[0;39m : Running the evict task with compensationTime 0ms
